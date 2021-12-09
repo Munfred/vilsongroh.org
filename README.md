@@ -1,9 +1,13 @@
 # The Vilson Groh Institute
+
+### The Vilson Groh Institute official website (in Portuguese only) is [redeivg.org.br](https://redeivg.org.br).
+
 This page collects materials in English about the Vilson Groh Institute, which is transforming marginalized communities in Florianópolis (Brazil) with education and opportunity.
 
 The Vilson Groh Institute is a Brazilian nonprofit that coordinates the work of a network of six organizations that for over 20 years have been working to uplift marginalized communities, and currently reaches over 5000 people and 2000 families. Their focus is on youth education, social support, social integration, professional preparation and community development in the urban periphery. For over 40 years Vilson Groh has been living in these communities and creating a more peaceful and just future in Brazil.
 
-Vilson Groh moved in 1978  to a marginalized community in Florianópolis, then a favela, and never left. Now 66 years old and going strong, Vilson Groh’s vision and passion have blossomed into a network coordinating almost 400 volunteers working across six nonprofits. The institute’s focus is on providing opportunity to at-risk youth, by supporting families, providing full time and part time educational programs, helping train and equip individuals for their first job, and providing scholarships for technical and university level education. The official website in Portuguese is [redeivg.org.br](https://redeivg.org.br).
+Vilson Groh moved in 1978  to a marginalized community in Florianópolis, then a favela, and never left. Now 66 years old and going strong, Vilson Groh’s vision and passion have blossomed into a network coordinating almost 400 volunteers working across six nonprofits. The institute’s focus is on providing opportunity to at-risk youth, by supporting families, providing full time and part time educational programs, helping train and equip individuals for their first job, and providing scholarships for technical and university level education. 
+
 
 ## Impact over the last 10 years
 
