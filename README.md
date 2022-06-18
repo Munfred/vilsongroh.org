@@ -99,16 +99,16 @@ In 1979, he arrived at Morro do Mocotó, where he was welcomed by Claudete, a bl
 
 ## The Vilson Groh Network 
 
-Through Vilson Groh's leadership and that of many others, small projects have flourished and became reference organizations in communities. The the most prominent ones are:
+Through Vilson Groh's leadership and that of many others, small projects have flourished and became reference organizations in communities. 
+As time went on other organizations joined the movement, and the Vilson Groh Institute was founded in 2011, to strengthen the actions of these organizations already under the leadership of Vilson Groh. Today these organizations are:
 
-- ACAM (Mocotó Hill Children Friends Association), which welcomes children and adolescents in need of support at the Mocotó hill
-- CEDEP (Popular Education Center), which provides several cultural and educational initiatives
-- CCEA (Slave Anastácia Cultural Center) which welcomed children in the school day so as not to leave anyone on the street and maintains a shelter at Monte Serrat for children victims of violence and family problems
-
-As time went on other organizations joined the movement, and the Vilson Groh Institute was founded in 2011, to strengthen the actions of these organizations already under the leadership of Vilson Groh.
-
-
-
+- ACAM (Mocotó Hill Children Friends Association) - youth education and shelter for children and adolescents in vulnerable families
+- CCEA (Slave Anastácia Cultural Center)  - cultural activities, support for children and youth in violent situations
+- CEDEP (Center for Popular Education) - an experimental community educational organization created from scratch based on Paulo Freire's philosophy complementary education for 600 youth + adults
+- AJPII (John Paul II association) - a school for children an and adolescent education
+- MESLM (Marist School Lucia Mayvorne) - free full time education for about 500 children and adolescents
+- MESSJ (Marist School São José) - free full time education for about 1000 children and adolescents
+- IVG (The Vilson Groh Institute itself) - runs university preparation program, the Pocre Crer program, multiple family and community support programs
 
 ![image](https://user-images.githubusercontent.com/12504176/139390647-9f9330ae-4103-4638-b3cc-f58b13ea0c3e.jpg)
 
