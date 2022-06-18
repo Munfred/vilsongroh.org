@@ -91,15 +91,11 @@ Today Pode Crer is implemented as two weekly meetings in the morning or in the a
 
 Vilson Groh was born and raised in Brusque, a city founded by German immigrants in 1860 in the state of Santa Catarina. Having recently graduated in theology, he came to Florianópolis in 1978 to study Theology at the Federal University of Santa Catarina - UFSC.
 
-In 1979, he arrived at Morro do Mocotó, where he was welcomed by Claudete, a black woman, and practitioner of Umbanda - an Afro-Brazilian religion that blends African traditions with Roman Catholicism, Spiritism, and Indigenous beliefs. This friendship consolidated a strong perception of what life in the "periphery" really means - in the hills and favelas, without access to opportunity.
+In 1979, he arrived at Morro do Mocotó, where he was welcomed by Claudete, a black woman, and practitioner of Umbanda - an Afro-Brazilian religion that blends African traditions with Roman Catholicism, Spiritism, and Indigenous beliefs. This friendship consolidated a strong perception of what life in the "periphery" really means - in the hills and favelas, without access to opportunity. In 1983, he moved to Mont Serrat hill, where he has lived since then. His live has been one of total devotion for social justice. “I am a happy person. If I died, I would not be aware of saying what I did or what I did not do. Life has always been a surrender. This surrender internally gives you inner peace, which is not the peace of cemeteries, it is the peace of struggle.”
 
-In 1983, he moved to Mont Serrat hill, where he has lived since then. His live has been one of total devotion for social justice. “I am a happy person. If I died, I would not be aware of saying what I did or what I did not do. Life has always been a surrender. This surrender internally gives you inner peace, which is not the peace of cemeteries, it is the peace of struggle.”
+[![Vilson Video](https://user-images.githubusercontent.com/12504176/174450234-332c4fc0-bb01-49b9-9348-041823f870f8.jpg)](https://www.youtube.com/watch?v=1tuu-xvjNa4 "Video of Vilson Groh Story - Click to Watch!")
+
 ![image](https://user-images.githubusercontent.com/12504176/139395782-96d09cc5-2cb7-4e0b-8d2c-11ab03736881.png)
-
-
-[![Vilson Video](https://user-images.githubusercontent.com/12504176/139395782-96d09cc5-2cb7-4e0b-8d2c-11ab03736881.png)](https://www.youtube.com/watch?v=1tuu-xvjNa4 "Video of Vilson Groh Story - Click to Watch!")
-
-
 
 ## The Vilson Groh Network 
 
