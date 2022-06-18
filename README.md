@@ -96,7 +96,8 @@ In 1979, he arrived at Morro do Mocotó, where he was welcomed by Claudete, a bl
 In 1983, he moved to Mont Serrat hill, where he has lived since then. His live has been one of total devotion for social justice. “I am a happy person. If I died, I would not be aware of saying what I did or what I did not do. Life has always been a surrender. This surrender internally gives you inner peace, which is not the peace of cemeteries, it is the peace of struggle.”
 ![image](https://user-images.githubusercontent.com/12504176/139395782-96d09cc5-2cb7-4e0b-8d2c-11ab03736881.png)
 
-<video src="https://www.youtube.com/watch?v=1tuu-xvjNa4" controls="controls" style="max-width: 80%;">
+
+[![Vilson Video](https://user-images.githubusercontent.com/12504176/139395782-96d09cc5-2cb7-4e0b-8d2c-11ab03736881.png)](https://www.youtube.com/watch?v=1tuu-xvjNa4 "Video of Vilson Groh Story - Click to Watch!")
 
 
 
