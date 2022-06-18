@@ -85,7 +85,9 @@ Today Pode Crer is implemented as two weekly meetings in the morning or in the a
 
 
 
-## The history of Vilson Groh
+## The story of Vilson Groh
+
+![image](https://user-images.githubusercontent.com/12504176/139395012-ae01d365-17a9-4f4a-b722-0bc186daf222.png)
 
 Vilson Groh was born and raised in Brusque, a city founded by German immigrants in 1860 in the state of Santa Catarina. Having recently graduated in theology, he came to Florianópolis in 1978 to study Theology at the Federal University of Santa Catarina - UFSC.
 
@@ -93,6 +95,12 @@ In 1979, he arrived at Morro do Mocotó, where he was welcomed by Claudete, a bl
 
 In 1983, he moved to Mont Serrat hill, where he has lived since then. His live has been one of total devotion for social justice. “I am a happy person. If I died, I would not be aware of saying what I did or what I did not do. Life has always been a surrender. This surrender internally gives you inner peace, which is not the peace of cemeteries, it is the peace of struggle.”
 ![image](https://user-images.githubusercontent.com/12504176/139395782-96d09cc5-2cb7-4e0b-8d2c-11ab03736881.png)
+
+<video src="https://www.youtube.com/watch?v=1tuu-xvjNa4" controls="controls" style="max-width: 80%;">
+
+
+
+## The Vilson Groh Network 
 
 Through Vilson Groh's leadership and that of many others, small projects have flourished and became reference organizations in communities. The the most prominent ones are:
 
@@ -102,13 +110,8 @@ Through Vilson Groh's leadership and that of many others, small projects have fl
 
 As time went on other organizations joined the movement, and the Vilson Groh Institute was founded in 2011, to strengthen the actions of these organizations already under the leadership of Vilson Groh.
 
-![image](https://user-images.githubusercontent.com/12504176/139395012-ae01d365-17a9-4f4a-b722-0bc186daf222.png)
 
 
-
-## The Vilson Groh Network 
-
-Through Vilson Groh's leadership and that of many others, small projects have flourished and became reference organizations in communities. The the most prominent ones are:
 
 ![image](https://user-images.githubusercontent.com/12504176/139390647-9f9330ae-4103-4638-b3cc-f58b13ea0c3e.jpg)
 
