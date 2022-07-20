@@ -4,9 +4,9 @@
 
 This page collects materials in English about the Vilson Groh Institute, which is transforming marginalized communities in Florianópolis (Brazil) with education and opportunity.
 
-The Vilson Groh Institute is a Brazilian nonprofit that coordinates the work of a network of organizations built over 40 years of grassroots work in  marginalized communities. Today they reaches over 5000 youth across their educational programs and 2000 families. Their focus is on youth education, social support, social integration, professional preparation and community development in the urban periphery. For over 40 years Vilson Groh has been living in these communities and creating a more peaceful and just future in Brazil.
+The Vilson Groh Institute is a Brazilian nonprofit that supportrs a network of 8 organizations built over 40 years of grassroots work in  marginalized communities. Today this network reaches over 6000 students across their educational programs, and 20000 individuals across community and family support programs.  The institute’s focus is on providing opportunity to at-risk youth, by supporting families, providing full time and part time educational programs, helping train and equip individuals for their first job, and providing scholarships for technical and university level education. 
 
-Vilson Groh moved in 1978  to a marginalized community in Florianópolis, then a favela, and never left. Now 66 years old and going strong, Vilson Groh’s vision and passion have blossomed into a network coordinating almost 400 volunteers working across six nonprofits. The institute’s focus is on providing opportunity to at-risk youth, by supporting families, providing full time and part time educational programs, helping train and equip individuals for their first job, and providing scholarships for technical and university level education. 
+This network of 8 organizations was created large part due to a lifetime of work fostering dialogue and amassing tremendous goodwill across society from the Institute’s namesake: Vilson Groh. Vilson is a Catholic priest who in 1978 moved to the marginalized community of Monte Serrat in Florianópolis and devoted his life to enfranchising marginalized communities, using lifelong education and advocacy to bridge pervasive urban exclusion. This work continues today: now 68, living in the same place in Monte Serrat and still going strong, Vilson continues to use the respect, goodwill and convening power he earned over a lifetime of work dedicated to others to advance social justice through education and community. 
 
 
 ## Impact over the last 10 years
@@ -33,6 +33,8 @@ Some results showing the impact of the Vilson Groh Institute results over the la
 ## Donations
 
 If you wish to make a tax deductible donation in the US to support the Vilson Groh Institute, this can be done through the Pode Crer Fund of the BrazilFoundation, a 501(c)3 that supports Brazilian organizations promoting justice, equality and opportunity. To donate, visit [https://www.brazilfoundation.org/podecrerfund/](https://www.brazilfoundation.org/podecrerfund/)
+
+Donations within Brazil in Reais can be made through the Institute's official website: [https://redeivg.org.br](https://redeivg.org.br)
 
 
 ## Reinventing Education in Brazil: The Pode Crer Program 
