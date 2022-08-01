@@ -79,6 +79,10 @@ After Monte Serrat neighborhood the next two centers will be built in the Monte 
 
 ## Current funding needs
 
+
+
+We have the institutional capacity to operate and grow Pode Crer. We are bottlenecked by fundraising. The first center is planned to open in 2023 at a total cost of about $1.1M Future centers are estimated at $1M to build and $500k per year to operate in full. A center can serve 400 Pode Crer students and reaches about 5000 community members. Each center is planned to be staffed by 12 educators and 8 support staff.  We are confident that if we have the money we can train and grow our team of educators by 50% each year. With $5M we could have these 5 centers built and operational by 2027.
+
 Pode Crer is free and open to all, aiming to serve vulnerable students from marginalized communities. Students are divided into three educational tracks for different age groups. Ages 11-13 (track 1), 14-17 (track 2) and 18-24 (track 3). Students on tracks 2 and 3 receive an allowance of R$200 (USD 40) per month during the program. This allowance is fundamental to incentivize them and their families to focus on studies rather than procuring work to supplement family income. 
 
 The 2022 implementation is supported by a team of 21 people, including educators, social workers, pedagogues and administrators. The budget for 2022 is R$1.2M (250k USD). *There is currently a funding shortage of about R$200k (40k USD) for funding the last 5 months of allowances for Pode Crer students*.
@@ -91,9 +95,7 @@ Today Pode Crer is implemented as two weekly meetings in the morning or in the a
 
 ![image](https://user-images.githubusercontent.com/12504176/139395012-ae01d365-17a9-4f4a-b722-0bc186daf222.png)
 
-Vilson Groh was born and raised in Brusque, a city founded by German immigrants in 1860 in the state of Santa Catarina. Having recently graduated in theology, he came to Florianópolis in 1978 to study Theology at the Federal University of Santa Catarina - UFSC.
-
-In 1979, he arrived at Morro do Mocotó, where he was welcomed by Claudete, a black woman, and practitioner of Umbanda - an Afro-Brazilian religion that blends African traditions with Roman Catholicism, Spiritism, and Indigenous beliefs. This friendship consolidated a strong perception of what life in the "periphery" really means - in the hills and favelas, without access to opportunity. In 1983, he moved to Mont Serrat hill, where he has lived since then. His live has been one of total devotion for social justice. “I am a happy person. If I died, I would not be aware of saying what I did or what I did not do. Life has always been a surrender. This surrender internally gives you inner peace, which is not the peace of cemeteries, it is the peace of struggle.”
+Vilson Groh was born and raised in Brusque, a city founded by German immigrants in 1860 in the state of Santa Catarina. He came to Florianópolis in 1978 to pursue graduate studies at the Federal University of Santa Catarina (UFSC). Soon after Vilson moved to marginalized community of Monte Serrat in Florianópolis and devoted his life to enfranchising marginalized communities, using lifelong education and advocacy to bridge pervasive urban exclusion. This work continues today: now 68, living in the same place in Monte Serrat and still going strong, Vilson continues to use the respect, goodwill and convening power he earned over a lifetime of work dedicated to others to advance social justice through education and community. 
 
 [![Vilson Video](https://user-images.githubusercontent.com/12504176/174450234-332c4fc0-bb01-49b9-9348-041823f870f8.jpg)](https://www.youtube.com/watch?v=1tuu-xvjNa4 "Video of Vilson Groh Story - Click to Watch!")
 
@@ -102,15 +104,20 @@ In 1979, he arrived at Morro do Mocotó, where he was welcomed by Claudete, a bl
 ## The Vilson Groh Network 
 
 Through Vilson Groh's leadership and that of many others, small projects have flourished and became reference organizations in communities. 
-As time went on other organizations joined the movement, and the Vilson Groh Institute was founded in 2011, to strengthen the actions of these organizations already under the leadership of Vilson Groh. Today these organizations are:
+As time went on other organizations joined the movement, and the Vilson Groh Institute was founded in 2011, to strengthen the actions of these organizations already under the leadership of Vilson Groh. 
 
-- ACAM (Mocotó Hill Children Friends Association) - youth education and shelter for children and adolescents in vulnerable families
-- CCEA (Slave Anastácia Cultural Center)  - cultural activities, support for children and youth in violent situations
-- CEDEP (Center for Popular Education) - an experimental community educational organization created from scratch based on Paulo Freire's philosophy complementary education for 600 youth + adults
-- AJPII (John Paul II association) - a school for children an and adolescent education
+It should be highlighted that all of this work is performed in violent and marginalized communities in an extremely challenging educational context: students are initially violent, aloof, brute, emotionally undeveloped, and often going hungry. This network approach only works because every educator, volunteer and supporter is sensible and deeply aware of the realities in each community, and the Institute is extremely good at training educators. The network works through a holistic approach and engage with everyone involved: students, parents, families and the community, meeting social reality,  constantly reassessing it and adjusting our approach.  
+
+Today the organizations that compose the Vilson Groh Network are:
+
+- CEDEP (Center for Popular Education) - an experimental community educational organization created from scratch based on Paulo Freire's philosophy complementary education for 600 youth and continuing education for adults
+- AJPII (John Paul II association) - a school for children an and adolescent education where track 1 of Pode Crer is executed
 - MESLM (Marist School Lucia Mayvorne) - free full time education for about 500 children and adolescents
 - MESSJ (Marist School São José) - free full time education for about 1000 children and adolescents
-- IVG (The Vilson Groh Institute itself) - runs university preparation program, the Pocre Crer program, multiple family and community support programs
+- CCEA (Slave Anastácia Cultural Center)  - cultural activities, support for children and youth, and tracks 2 and 3 of the Pode Crer program
+- ACAM (Mocotó Hill Children Friends Association) - youth education and shelter for children and adolescents in vulnerable families
+- AGB (Friends of Guinea-Bissau) - runs bilateral education programs for elementary and high school, as well as teacher trainings in Guinea-Bissau
+- IVG (The Vilson Groh Institute itself) - runs university preparation program, the Pode Crer program, multiple family and community support programs
 
 ![image](https://user-images.githubusercontent.com/12504176/139390647-9f9330ae-4103-4638-b3cc-f58b13ea0c3e.jpg)
 
