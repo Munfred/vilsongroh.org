@@ -121,17 +121,6 @@ Today the organizations that compose the Vilson Groh Network are:
 - AGB (Friends of Guinea-Bissau) - runs bilateral education programs for elementary and high school, as well as teacher trainings in Guinea-Bissau
 - IVG (The Vilson Groh Institute itself) - runs university preparation program, the Pode Crer program, multiple family and community support programs
 
-![image](https://user-images.githubusercontent.com/12504176/139390647-9f9330ae-4103-4638-b3cc-f58b13ea0c3e.jpg)
-
-## Pandemic relief
-Throughout 2020 as the pandemic unfolded in Brazil the Vilson Groh Insitute stepped up it’s support programs to impoverished families. Because of his ceaseless activity, Vilson Groh himself caught COVID-19 in October 2020, and thankfully fully recoververed. Currently 1746 families are supported R$200 (USD 40) per month and through mulitple food banks. As the pandemic continues to seriously disrupt daily life, hundreds more families have signed up for this essential support. Currently the institute seeks funds to support up to 500 additional families for a year.
-
-![image](https://user-images.githubusercontent.com/12504176/139394648-e61f2a04-6530-42c0-bbef-2c4ca8131b78.png)
-
-
-
-
-
-
+Further detailed information about the impact of the institute is available *in portuguese* in thei [Institute 2021 social impact report](https://www.redeivg.org.br/wp-content/uploads/2022/05/RELATO%CC%81RIO-SOCIAL-IVG-2021-WEB-2.pdf), in the [Pode Crer 2021 report](https://www.redeivg.org.br/wp-content/uploads/2021/12/Relatorio-Pode-Crer-versao-WEB-2.pdf) and in the institute's [social reports page](https://www.redeivg.org.br/relatorios-sociais/)
 
 _This webpage is maintained by [Eduardo da Veiga Beltrame](https://munfred.com)_
