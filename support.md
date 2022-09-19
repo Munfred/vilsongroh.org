@@ -1,5 +1,5 @@
-# Support the Pode Crer Program
-### Technology, civics and leadership education for marginalized youth
+# How to support the Pode Crer Program
+### Technology, civics and leadership education for marginalized youth in Brazil
 
 - Pode Crer is a new educational program being piloted in Florianópolis in Brazil that aims to create an inclusive knowledge economy 
 - It provides complementary education focusing on on civics, technology, communication and expression, and socio-emotional skills
