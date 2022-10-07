@@ -1,12 +1,27 @@
 # The Vilson Groh Institute
 
-### The Vilson Groh Institute official website (in Portuguese only) is [redeivg.org.br](https://redeivg.org.br).
+### Pode Crer program: Technology, civics and leadership education for marginalized youth in Brazil
 
-This page collects materials in English about the Vilson Groh Institute, which is transforming marginalized communities in Florianópolis (Brazil) with education and opportunity.
+- Pode Crer is a new educational program being piloted in Florianópolis in Brazil that aims to create an inclusive knowledge economy 
+- It provides complementary education focusing on on civics, technology, communication and expression, and socio-emotional skills
+with program hubs in each communities - "social innovations centers"
+- Pode Crer was created to scale, the pilot is in the second year happening in two locations with 300 youth ages 11-24
+- The plan is to create social innovation centers across 5 communities where the Vilson Groh Institute already operates to serve as Pode Crer hubs, and change each community from the inside out 
+- Pode Crer is free, and we are fundraising to support continuing operations. One year of Pode Crer for 300 youth costs $240k USD. One social innovation center costs $1.2M
+- Pode Crer is impactful. Of 200 youth aged 14+ in 2021, 66 went got jobs and internships after the program (37 in tech) and 7 went to university. These are vulnerable youth from violent and marginalized communities, this kind of impact life changing for these youth, who are prone to fall into violence, drug trafficking and underemployment.
+- A brief presentation on Pode Crer is [here](https://docs.google.com/presentation/d/1OCvBwtLGfgKywJC2TbuCzU3ia4oNltaINNVUHnn3dBs/edit?usp=sharing)
+
+![Pode Crer images](https://pbs.twimg.com/media/Fc1djHZagAI--xu?format=jpg&name=4096x4096)
+
+### About the Vilson Groh Institute
+
+The Vilson Groh Institute has a 40 year history transforming marginalized communities in Florianópolis, Brazil, with education and opportunity for social and economic integration. The Vilson Groh Institute official website (in Portuguese) is [redeivg.org.br](https://redeivg.org.br).
 
 The Vilson Groh Institute is a Brazilian nonprofit that supports a network of 8 organizations built over 40 years of grassroots work in  marginalized communities. Today this network reaches over 6000 students across their educational programs, and 20000 individuals across community and family support programs.  The institute’s focus is on providing opportunity to at-risk youth, by supporting families, providing full time and part time educational programs, helping train and equip individuals for their first job, and providing scholarships for technical and university level education. 
 
 This network of 8 organizations was created largely due to a lifetime of work fostering dialogue and amassing tremendous goodwill across society from the Institute’s namesake: Vilson Groh. Forty years ago Vilson moved to the marginalized community of Monte Serrat in Florianópolis and devoted his life to enfranchising marginalized communities, using lifelong education and advocacy to bridge pervasive urban exclusion. This work continues today: now 68, living in the same place in Monte Serrat and still going strong, Vilson continues to use the respect, goodwill and convening power he earned over a lifetime of work dedicated to others to advance social and economic opportunity through innovative education and community programs. 
+
+![image](https://user-images.githubusercontent.com/12504176/139393813-8c3f7a2b-fd98-42ee-af15-97e1f740e539.png)
 
 
 ## Impact over the last 10 years
@@ -22,7 +37,6 @@ Some results showing the impact of the Vilson Groh Institute results over the la
 - 2.219 families supported per year on average
 - 288 volunteers per year on average
 
-![image](https://user-images.githubusercontent.com/12504176/139393813-8c3f7a2b-fd98-42ee-af15-97e1f740e539.png)
 
 
 ## English media
@@ -32,12 +46,28 @@ Some results showing the impact of the Vilson Groh Institute results over the la
 
 ## Donations
 
-If you wish to make a tax deductible donation in the US to support the Vilson Groh Institute, this can be done through the Pode Crer Fund of the BrazilFoundation, a 501(c)3 that supports Brazilian organizations promoting justice, equality and opportunity. To donate, visit [https://www.brazilfoundation.org/podecrerfund/](https://www.brazilfoundation.org/podecrerfund/)
+#### Tax deductible donations in US Dollars
+To make a tax deductible donation in USD with a credit card, 
+you can use the designated fund we created together with the BrazilFoundation, an American 501(c)3:
 
-Donations within Brazil in Reais can be made through the Institute's official website: [https://redeivg.org.br](https://redeivg.org.br)
+[https://www.brazilfoundation.org/podecrerfund/](https://www.brazilfoundation.org/podecrerfund/)
+
+#### Donations in Brazilian Reais
+To make a donation in Brazilian reais you can use the Portuguese website donation page: 
+
+[https://www.redeivg.org.br/doe-agora/](https://www.redeivg.org.br/doe-agora/)
 
 
-## Reinventing Education in Brazil: The Pode Crer Program 
+#### Donations with cryptocurrencies via GitCoin
+You can support the Vilson Groh Institute with donations using cryptocurrencies
+such as Ethereum in the Pode Crer GitCoin campaign page:
+
+[https://gitcoin.co/grants/7603/pode-crer-tech-education-for-marginalized-youth](https://gitcoin.co/grants/7603/pode-crer-tech-education-for-marginalized-youth)
+
+
+## The Pode Crer vision: Reinventing Education in Brazil
+
+![image](https://pbs.twimg.com/media/FdJNNmeaAAIK8FK?format=jpg&name=4096x4096)
 
 Pode Crer is a new complementary education program and methodology created to shape the future of Brazilian education and society. It aims to prepare students to be engaged leaders in society and active participants in the knowledge economy. Pode Crer implements a new educational approach and curriculum that blends technology, citizenship and communication. It is underpinned by the development of leadership skills in students, with great awareness of the challenging social context of Brazilian marginalized communities, where the program is implemented. 
 
@@ -48,6 +78,8 @@ Pode Crer currently takes place in the city of Florianópolis, in the south of B
 ![image](https://pbs.twimg.com/media/FdJTHfFakAEle8h?format=jpg&name=4096x4096)
 
 The long-term vision of Pode Crer is to provide complementary education from birth to university age. To enable this vision and to serve as hubs for the implementation and growth of Pode Crer, five Social Innovation Centers will be created across the greater Florianópolis region in locations close to partner organizations. These centers will have state-of-the-art infrastructure to offer all the educational tracks of Pode Crer continuously. The first center is planned to open by 2023 in the community of Monte Serrat in Florianópolis, where Vilson Groh lives. It will have a maker space, computer labs, classrooms and workshops, auditorium, library, co-working spaces and large spaces for social coexistence.
+
+![image](https://pbs.twimg.com/media/FdI9g2IagAIjFfp?format=jpg&name=4096x4096)
 
 Pode Crer is supported by the network that was built over 40 years of work by Vilson Groh and many other engaged individuals in marginalized and impoverished communities. The Institute and its partner organizations have a long history of success creating new educational programs serving marginalized communities and vulnerable populations in the most challenging situations in Brazil, in the midst of urban misery and violence. Because of this long experience and its institutional management capacity, the Vilson Groh Institute and its partner organizations are in a unique position to create, operationalize, and refine bold new educational initiatives for Brazil.       
 
@@ -68,12 +100,10 @@ Beyond just technical skills, the fundamental element important is the ability t
 
 The full development of a knowledge economy also requires a society with functioning institutions and high levels of interpersonal trust. In Brazil these elements are still fraught and often absent. The country has institutions that are an important foundation but are still young and fragile. It is necessary to change Brazil's pervasive culture of corruption. This culture manifests itself through a generalized mindset of trying to get ahead of others, usually by skirting the rules or disregarding what is public and common. It is necessary to inculcate civic mindedness into every Brazilian, and a genuine regard for everything that is common, shared and public. 
 
-![image](https://pbs.twimg.com/media/FdJNNmeaAAIK8FK?format=jpg&name=4096x4096)
-
 When implemented on a national scale, Pode Crer will be paving the way in Brazil for the creation of a society of leaders with an inclusive knowledge economy - something that still does not truly exist anywhere in the world. The creation of an inclusive knowledge economy is the only sustainable way of closing the great social gaps in Brazil. In an economy where everyone actually participates, it is not necessary to permanently resort to assistance programs or income redistribution. 
 
 
-## A Vision for the Future: Social Innovation Centers
+## Plans for the Future: Social Innovation Centers
 
 The institute’s grand project for the next few years is to shatter social segregation by building innovation centers across five marginalized communities in the Florianópolis region - to serve as a development model for the rest of Brazil. The projects and studies for the first center are done, and the estimated construction cost is 6 million brazilian reais, about 1.1 million US dollars. The project includes a library, maker lab, co-working space, classrooms and socialization spaces. It will be built in Mont Serrat - the community where Vilson Groh lives at - and completely reinvent the community’s image.
 
@@ -82,8 +112,6 @@ The institute’s grand project for the next few years is to shatter social segr
 After Monte Serrat neighborhood the next two centers will be built in the Monte Cristo neighborhood in Florianópolis and at Ponte do Imaruim in Palhoça. The first is home to CEDEP (https://cedeponline.com.br), a popular and experimental education center that has 30 years of experience with complementary education. CEDEP carries out innovative educational experiments with vulnerable youth based on the philosophy of Brazilian educator Paulo Freire. The second location is home to the AJPII elementary school (https://ajp2.org.br/), where the Pode Crer track 1 pilot takes place (11 -13 years). 
 
 ## Current funding needs
-
-
 
 We have the institutional capacity to operate and grow Pode Crer. We are bottlenecked by fundraising. The first center is planned to open in 2023 at a total cost of about $1.1M Future centers are estimated at $1M to build and $500k per year to operate in full. A center can serve 400 Pode Crer students and reaches about 5000 community members. Each center is planned to be staffed by 12 educators and 8 support staff.  We are confident that if we have the money we can train and grow our team of educators by 50% each year. With $5M we could have these 5 centers built and operational by 2027.
 
