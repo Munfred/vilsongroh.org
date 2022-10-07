@@ -6,7 +6,7 @@ This page collects materials in English about the Vilson Groh Institute, which i
 
 The Vilson Groh Institute is a Brazilian nonprofit that supports a network of 8 organizations built over 40 years of grassroots work in  marginalized communities. Today this network reaches over 6000 students across their educational programs, and 20000 individuals across community and family support programs.  The institute’s focus is on providing opportunity to at-risk youth, by supporting families, providing full time and part time educational programs, helping train and equip individuals for their first job, and providing scholarships for technical and university level education. 
 
-This network of 8 organizations was created largely due to a lifetime of work fostering dialogue and amassing tremendous goodwill across society from the Institute’s namesake: Vilson Groh. Vilson is a Catholic priest who in 1979 moved to the marginalized community of Monte Serrat in Florianópolis and devoted his life to enfranchising marginalized communities, using lifelong education and advocacy to bridge pervasive urban exclusion. This work continues today: now 68, living in the same place in Monte Serrat and still going strong, Vilson continues to use the respect, goodwill and convening power he earned over a lifetime of work dedicated to others to advance social justice through education and community. 
+This network of 8 organizations was created largely due to a lifetime of work fostering dialogue and amassing tremendous goodwill across society from the Institute’s namesake: Vilson Groh. Forty years ago Vilson moved to the marginalized community of Monte Serrat in Florianópolis and devoted his life to enfranchising marginalized communities, using lifelong education and advocacy to bridge pervasive urban exclusion. This work continues today: now 68, living in the same place in Monte Serrat and still going strong, Vilson continues to use the respect, goodwill and convening power he earned over a lifetime of work dedicated to others to advance social and economic opportunity through innovative education and community programs. 
 
 
 ## Impact over the last 10 years
@@ -45,6 +45,8 @@ The Pode Crer program and methodology aims at nothing less than reinventing basi
 
 Pode Crer currently takes place in the city of Florianópolis, in the south of Brazil. Is divided into three educational tracks for ages 11-13, 14-17 and 18-24. The pilot program took place in 2021 with 320 young people in a hybrid format. In May 2022, its second iteration began, in a fully face-to-face format, with 300 young people, some of whom participated in 2021. Pode Crer is free and open for all.
 
+![image](https://pbs.twimg.com/media/FdJTHfFakAEle8h?format=jpg&name=4096x4096)
+
 The long-term vision of Pode Crer is to provide complementary education from birth to university age. To enable this vision and to serve as hubs for the implementation and growth of Pode Crer, five Social Innovation Centers will be created across the greater Florianópolis region in locations close to partner organizations. These centers will have state-of-the-art infrastructure to offer all the educational tracks of Pode Crer continuously. The first center is planned to open by 2023 in the community of Monte Serrat in Florianópolis, where Vilson Groh lives. It will have a maker space, computer labs, classrooms and workshops, auditorium, library, co-working spaces and large spaces for social coexistence.
 
 Pode Crer is supported by the network that was built over 40 years of work by Vilson Groh and many other engaged individuals in marginalized and impoverished communities. The Institute and its partner organizations have a long history of success creating new educational programs serving marginalized communities and vulnerable populations in the most challenging situations in Brazil, in the midst of urban misery and violence. Because of this long experience and its institutional management capacity, the Vilson Groh Institute and its partner organizations are in a unique position to create, operationalize, and refine bold new educational initiatives for Brazil.       
@@ -62,9 +64,11 @@ While Pode Crer is currently implemented in three educational tracks for student
 
 The curriculum has three foundations: technology, citizenship, and communication. They were designed to prepare the student to actively participate in the knowledge economy, which demands skills that are not part of the Brazilian education system. 
 
-Beyond just technical skills, the fundamental element important is the ability to work well with people. Developing autonomy, communication and teamwork for working in a creative and dynamic environment demands emotional intelligence, awareness and self-confidence. These are elements that form the foundation of leadership, explicitly developed and improved by CEOs and executives, but typically ignored in other contexts. Creating an inclusive knowledge economy that is not insular and elitist requires developing these elements in all individuals as part of the educational system. This means creating a society of leaders.
+Beyond just technical skills, the fundamental element important is the ability to work well with people. Developing autonomy, communication and teamwork for working in a creative and dynamic environment demands emotional intelligence, awareness and self-confidence. These are elements that form the foundation of leadership, explicitly developed and improved by leaders and executives, but typically ignored in other contexts. Creating an inclusive knowledge economy that is not insular and elitist requires developing these elements in all individuals as part of the educational system. This means creating a society of leaders.
 
 The full development of a knowledge economy also requires a society with functioning institutions and high levels of interpersonal trust. In Brazil these elements are still fraught and often absent. The country has institutions that are an important foundation but are still young and fragile. It is necessary to change Brazil's pervasive culture of corruption. This culture manifests itself through a generalized mindset of trying to get ahead of others, usually by skirting the rules or disregarding what is public and common. It is necessary to inculcate civic mindedness into every Brazilian, and a genuine regard for everything that is common, shared and public. 
+
+![image](https://pbs.twimg.com/media/FdJNNmeaAAIK8FK?format=jpg&name=4096x4096)
 
 When implemented on a national scale, Pode Crer will be paving the way in Brazil for the creation of a society of leaders with an inclusive knowledge economy - something that still does not truly exist anywhere in the world. The creation of an inclusive knowledge economy is the only sustainable way of closing the great social gaps in Brazil. In an economy where everyone actually participates, it is not necessary to permanently resort to assistance programs or income redistribution. 
 
@@ -86,6 +90,8 @@ We have the institutional capacity to operate and grow Pode Crer. We are bottlen
 Pode Crer is free and open to all, aiming to serve vulnerable students from marginalized communities. Students are divided into three educational tracks for different age groups. Ages 11-13 (track 1), 14-17 (track 2) and 18-24 (track 3). Students on tracks 2 and 3 receive an allowance of R$200 (USD 40) per month during the program. This allowance is fundamental to incentivize them and their families to focus on studies rather than procuring work to supplement family income. 
 
 The 2022 implementation is supported by a team of 21 people, including educators, social workers, pedagogues and administrators. The budget for 2022 is R$1.2M (250k USD). *There is currently a funding shortage of about R$200k (40k USD) for funding the last 5 months of allowances for Pode Crer students*.
+
+![image](https://pbs.twimg.com/media/FdJaMSTagAATlYW?format=png&name=4096x4096)
 
 Today Pode Crer is implemented as two weekly meetings in the morning or in the afternoon, in classes of up to 25 students who have classes and workshops on two topics a day. In the current two-day-a-week format, a team of 4 educators working full-time could serve 400 students on each educational track. To offer the program 5 days a week to 400 students, a team of 8 educators would be required. Currently, the two biggest limitations for the Program are financial resources to hire the entire team as full-time staff (many can only be paid part time), and physical space for the program's activities. It is possible to double the reach of the program with the current team and twice the financial resources, with an yearly operating budget of R$2.4M (about 500k USD).
 
@@ -120,6 +126,12 @@ Today the organizations that compose the Vilson Groh Network are:
 - ACAM (Mocotó Hill Children Friends Association) - youth education and shelter for children and adolescents in vulnerable families
 - AGB (Friends of Guinea-Bissau) - runs bilateral education programs for elementary and high school, as well as teacher trainings in Guinea-Bissau
 - IVG (The Vilson Groh Institute itself) - runs university preparation program, the Pode Crer program, multiple family and community support programs
+
+![image](https://pbs.twimg.com/media/FdJQ2hlaMAEWqFe?format=jpg&name=4096x4096)
+
+![image](https://pbs.twimg.com/media/FdJCW0MagAEEyxU?format=jpg&name=4096x4096)
+
+![image](https://pbs.twimg.com/media/FdJMNCNaAAEaTzB?format=png&name=4096x4096)
 
 Further detailed information about the impact of the institute is available *in portuguese* in thei [Institute 2021 social impact report](https://www.redeivg.org.br/wp-content/uploads/2022/05/RELATO%CC%81RIO-SOCIAL-IVG-2021-WEB-2.pdf), in the [Pode Crer 2021 report](https://www.redeivg.org.br/wp-content/uploads/2021/12/Relatorio-Pode-Crer-versao-WEB-2.pdf) and in the institute's [social reports page](https://www.redeivg.org.br/relatorios-sociais/)
 
