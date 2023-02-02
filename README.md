@@ -1,5 +1,8 @@
 # The Vilson Groh Institute in Brazil
 
+![image (4)](https://user-images.githubusercontent.com/12504176/216223831-745373b0-4131-4d34-ad50-2d910f7a5c8e.jpg)
+
+
 ### Pode Crer: Technology, civics and leadership education for marginalized youth 
 
 - Pode Crer is a new educational program being piloted by the Vilson Groh Institute in Florianópolis in Brazil, with complementary education focusing on on civics, technology, communication and expression, and socio-emotional skills
@@ -16,7 +19,16 @@
 
 - The Pode Crer official webpage (in Portuguese) is at [redeivg.org.br/podecrer](https://redeivg.org.br/podecrer)
 
+![image (7)](https://user-images.githubusercontent.com/12504176/216224247-9651434b-631c-401d-9d37-b136d7881eeb.jpg)
+
+![image (6)](https://user-images.githubusercontent.com/12504176/216224073-db54430c-4661-4cb1-a803-1b56c74b4a1e.jpg)
+
+![image (8)](https://user-images.githubusercontent.com/12504176/216224394-43d2b411-386d-4763-9bc0-28fca0cec36c.jpg)
+
+
 ![Pode Crer images](https://pbs.twimg.com/media/Fc1djHZagAI--xu?format=jpg&name=4096x4096)
+
+
 
 ### About the Vilson Groh Institute
 
