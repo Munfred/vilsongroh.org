@@ -40,6 +40,8 @@ This network of 8 organizations was created largely due to a lifetime of work fo
 
 ![image](https://user-images.githubusercontent.com/12504176/139393813-8c3f7a2b-fd98-42ee-af15-97e1f740e539.png)
 
+<img width="1064" alt="image" src="https://user-images.githubusercontent.com/12504176/216225251-7a7eb758-f35e-4c74-a2b2-722b9c11b9cc.png">
+
 
 ## Impact over the last 10 years
 
@@ -92,8 +94,6 @@ The Pode Crer program and methodology aims at nothing less than reinventing basi
 
 Pode Crer currently takes place in the city of Florianópolis, in the south of Brazil. Is divided into three educational tracks for ages 11-13, 14-17 and 18-24. The pilot program took place in 2021 with 320 young people in a hybrid format. In May 2022, its second iteration began, in a fully face-to-face format, with 300 young people, some of whom participated in 2021. Pode Crer is free and open for all.
 
-![image](https://pbs.twimg.com/media/FdJTHfFakAEle8h?format=jpg&name=4096x4096)
-
 The long-term vision of Pode Crer is to provide complementary education from birth to university age. To enable this vision and to serve as hubs for the implementation and growth of Pode Crer, five Social Innovation Centers will be created across the greater Florianópolis region in locations close to partner organizations. These centers will have state-of-the-art infrastructure to offer all the educational tracks of Pode Crer continuously. The first center is planned to open by 2023 in the community of Monte Serrat in Florianópolis, where Vilson Groh lives. It will have a maker space, computer labs, classrooms and workshops, auditorium, library, co-working spaces and large spaces for social coexistence.
 
 ![image](https://pbs.twimg.com/media/FdI9g2IagAIjFfp?format=jpg&name=4096x4096)
@@ -129,8 +129,9 @@ The institute’s grand project for the next few years is to shatter social segr
 After Monte Serrat neighborhood the next two centers will be built in the Monte Cristo neighborhood in Florianópolis and at Ponte do Imaruim in Palhoça. The first is home to CEDEP (https://cedeponline.com.br), a popular and experimental education center that has 30 years of experience with complementary education. CEDEP carries out innovative educational experiments with vulnerable youth based on the philosophy of Brazilian educator Paulo Freire. The second location is home to the AJPII elementary school (https://ajp2.org.br/), where the Pode Crer track 1 pilot takes place (11 -13 years). 
 
 ## Current funding needs
+![image (9)](https://user-images.githubusercontent.com/12504176/216224599-c8e37d92-f8c5-4cae-8eae-a8fb62db5144.jpg)
 
-We have the institutional capacity to operate and grow Pode Crer. We are bottlenecked by fundraising. The first center is planned to open in 2023 at a total cost of about $1.1M Future centers are estimated at $1M to build and $500k per year to operate in full. A center can serve 400 Pode Crer students and reaches about 5000 community members. Each center is planned to be staffed by 12 educators and 8 support staff.  We are confident that if we have the money we can train and grow our team of educators by 50% each year. With $5M we could have these 5 centers built and operational by 2027.
+We have the institutional capacity to operate and grow Pode Crer. We are bottlenecked by fundraising. The first center is planned to open in 2023 at a total cost of about $1M ($200k have been raised already). Future centers are estimated at $1M to build and operate for the first year. A center can serve 700 Pode Crer students and reaches about 5000 community members. Each center is planned to be staffed by 12 educators and 8 support staff.  We are confident that if we have the money we can train and grow our team of educators by 50% each year. With $5M we could have these 5 centers built and operational by 2027.
 
 Pode Crer is free and open to all, aiming to serve vulnerable students from marginalized communities. Students are divided into three educational tracks for different age groups. Ages 11-13 (track 1), 14-17 (track 2) and 18-24 (track 3). Students on tracks 2 and 3 receive an allowance of R$200 (USD 40) per month during the program. This allowance is fundamental to incentivize them and their families to focus on studies rather than procuring work to supplement family income. 
 
