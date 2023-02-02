@@ -1,6 +1,6 @@
 # The Vilson Groh Institute in Brazil
 
-### Technology, civics and leadership education for marginalized youth 
+### Pode Crer: Technology, civics and leadership education for marginalized youth 
 
 - Pode Crer is a new educational program being piloted by the Vilson Groh Institute in Florianópolis in Brazil, with complementary education focusing on on civics, technology, communication and expression, and socio-emotional skills
 - Pode Crer aims to create an inclusive knowledge economy through opportunity, breaking the cycle of urban misery and violence
@@ -10,7 +10,10 @@
 - One year of Pode Crer for 300 youth costs $240k USD. One social innovation center costs $1.2M USD
 - Pode Crer is impactful. Of 200 youth aged 14+ in 2021, 66 went got jobs and internships after the program (37 in tech) and 7 went to university. 
 - These are vulnerable youth from violent and marginalized communities, this kind of impact life changing for these youth, who are prone to fall into violence, drug trafficking and underemployment.
-- A brief presentation on Pode Crer is [here](https://docs.google.com/presentation/d/1OCvBwtLGfgKywJC2TbuCzU3ia4oNltaINNVUHnn3dBs/edit?usp=sharing)
+- A 12-slide deck with overview of Pode Crer with detailed numbers is [here](https://vilsongroh.org/deck.pdf)
+- The 2022 Pode Crer report is [here](https://vilsongroh.org/2022report.pdf)
+- A detailed slide deck presentation on Pode Crer with many pictures is [here](https://docs.google.com/presentation/d/1OCvBwtLGfgKywJC2TbuCzU3ia4oNltaINNVUHnn3dBs/edit?usp=sharing)
+
 - The Pode Crer official webpage (in Portuguese) is at [redeivg.org.br/podecrer](https://redeivg.org.br/podecrer)
 
 ![Pode Crer images](https://pbs.twimg.com/media/Fc1djHZagAI--xu?format=jpg&name=4096x4096)
