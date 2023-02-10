@@ -5,7 +5,7 @@
 
 ### Pode Crer: Technology, civics and leadership education for marginalized youth 
 
-- Pode Crer Project is a new educational program being piloted by the Vilson Groh Institute in Florianópolis in Brazil, with complementary education focusing on on civics, technology, communication and expression, and socio-emotional skills
+- Pode Crer is a new educational program being piloted by the Vilson Groh Institute in Florianópolis in Brazil, with complementary education focusing on on civics, technology, communication and expression, and socio-emotional skills
 - Pode Crer aims to create an inclusive knowledge economy through opportunity, breaking the cycle of urban misery and violence
 - Pode Crer was conceived to scale, and since 2021 has been running with 300 youth ages 11-24
 - The growth plan is to create social innovation centers across 5 communities where the Vilson Groh Institute already operates to serve as Pode Crer hubs, and change each community from the inside out 
