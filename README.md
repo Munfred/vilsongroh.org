@@ -42,6 +42,7 @@ This network of 8 organizations was created largely due to a lifetime of work fo
 ![2](https://user-images.githubusercontent.com/125078555/218178727-0c1fdfdf-8aaa-44ce-a7ff-d05a3f9d7cb4.png)
 
 <img width="1064" alt="image" src="https://user-images.githubusercontent.com/12504176/216225251-7a7eb758-f35e-4c74-a2b2-722b9c11b9cc.png">
+![3](https://user-images.githubusercontent.com/125078555/218178815-098e1421-b606-4daf-b8b7-742be9d31d8e.png)
 
 
 ## Impact over the last 10 years
@@ -103,10 +104,12 @@ Pode Crer is supported by the network that was built over 40 years of work by Vi
 
 
 ![Banner - BR Found (1)](https://user-images.githubusercontent.com/12504176/139394469-9b64a4ca-4b7c-4b94-83b8-d95eb2754c9c.png)
+![4](https://user-images.githubusercontent.com/125078555/218179270-5630dd61-dfcd-4494-9f16-dc349649a21c.png)
 
 Current activities being developed as part of the Pode Crer program encompass: enrollment of youth aged 11-24; training courses developing hard and soft skills and focusing on technology, innovation, entrepreneurship, English as a second language, arts, communication and citizenship contents; strengthening their social, psychological and academic developments with scholarships, meals, support to their families and preparatory courses for universities and trade schools; bringing them closer to the innovation and technology ecosystem, and helping them enter universities and the job market.
 
 ![image](https://user-images.githubusercontent.com/12504176/139394831-a154d377-c046-4a78-a3ae-1a4bbb09b523.png)
+![5](https://user-images.githubusercontent.com/125078555/218179326-2bddb120-005c-4967-a768-163264568d20.png)
 
 ### Creating an inclusive knowledge economy and a society of leaders
 
@@ -147,7 +150,7 @@ Today Pode Crer is implemented as two weekly meetings in the morning or in the a
 ## The story of Vilson Groh
 
 ![image](https://user-images.githubusercontent.com/12504176/139395012-ae01d365-17a9-4f4a-b722-0bc186daf222.png)
-
+![6](https://user-images.githubusercontent.com/125078555/218179398-d015b0fa-87ab-4eda-b01a-6837cb577a12.png)
 
 
 Vilson Groh was born and raised in Brusque, a city founded by German immigrants in 1860 in the state of Santa Catarina. He came to Florianópolis in 1978 to pursue graduate studies at the Federal University of Santa Catarina (UFSC). Soon after Vilson moved to marginalized community of Monte Serrat in Florianópolis, which back then had no running water, sewage, paved roads, electricity or any kind of service. It was the quintessential favela, a Brazilian shantytown growing uphill without any kind of government oversight or regard, with rampant crime, violence and drug trafficking. Vilson devoted his life to enfranchising marginalized communities, using lifelong education and advocacy to bridge pervasive urban exclusion, and this work continues today. For decades Vilson lived like the poorest, in a wooden hut, like most people around him. For that to change it took his mother demanding that he live with a modicum of dignity when many around him had brick and mortar houses, she refused to visit him for a year. He finally upscaled into a humble two bedroom brick and mortar house built by the community in that spot, where Vilson continues to live today. Every day Vilson uses the respect, goodwill and convening power he earned over a lifetime of work dedicated to others to advance social justice through education, community and helping literally everyone in need. 
@@ -155,6 +158,7 @@ Vilson Groh was born and raised in Brusque, a city founded by German immigrants 
 [![Vilson Video](https://user-images.githubusercontent.com/12504176/174450234-332c4fc0-bb01-49b9-9348-041823f870f8.jpg)](https://www.youtube.com/watch?v=1tuu-xvjNa4 "Video of Vilson Groh Story - Click to Watch!")
 
 ![image](https://user-images.githubusercontent.com/12504176/139395782-96d09cc5-2cb7-4e0b-8d2c-11ab03736881.png)
+![7](https://user-images.githubusercontent.com/125078555/218179497-d7049589-8e1c-46d1-8149-c46f309b25a0.png)
 
 ## The Vilson Groh Network 
 
@@ -175,6 +179,7 @@ Today the organizations that compose the Vilson Groh Network are:
 - IVG (The Vilson Groh Institute itself) - runs university preparation program, the Pode Crer program, multiple family and community support programs
 
 ![image](https://pbs.twimg.com/media/FdJQ2hlaMAEWqFe?format=jpg&name=4096x4096)
+![8](https://user-images.githubusercontent.com/125078555/218179581-ad94bbfe-3679-4000-8cf7-b6a775188754.png)
 
 ![image](https://pbs.twimg.com/media/FdJCW0MagAEEyxU?format=jpg&name=4096x4096)
 
