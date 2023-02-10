@@ -27,7 +27,7 @@
 
 
 ![Pode Crer images](https://pbs.twimg.com/media/Fc1djHZagAI--xu?format=jpg&name=4096x4096)
-
+![1](https://user-images.githubusercontent.com/125078555/218178428-1bcbd7d6-75a7-4680-8dbb-522ab067be6f.png)
 
 
 ### About the Vilson Groh Institute
@@ -39,6 +39,7 @@ The Vilson Groh Institute is a Brazilian nonprofit that supports a network of 8 
 This network of 8 organizations was created largely due to a lifetime of work fostering dialogue and amassing tremendous goodwill across society from the Institute’s namesake: Vilson Groh. Forty years ago Vilson moved to the marginalized community of Monte Serrat in Florianópolis and devoted his life to enfranchising marginalized communities, using lifelong education and advocacy to bridge pervasive urban exclusion. This work continues today: now 68, living in the same place in Monte Serrat and still going strong, Vilson continues to use the respect, goodwill and convening power he earned over a lifetime of work dedicated to others to advance social and economic opportunity through innovative education and community programs. 
 
 ![image](https://user-images.githubusercontent.com/12504176/139393813-8c3f7a2b-fd98-42ee-af15-97e1f740e539.png)
+![2](https://user-images.githubusercontent.com/125078555/218178727-0c1fdfdf-8aaa-44ce-a7ff-d05a3f9d7cb4.png)
 
 <img width="1064" alt="image" src="https://user-images.githubusercontent.com/12504176/216225251-7a7eb758-f35e-4c74-a2b2-722b9c11b9cc.png">
 
