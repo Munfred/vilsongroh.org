@@ -26,7 +26,7 @@
 ![image (8)](https://user-images.githubusercontent.com/12504176/216224394-43d2b411-386d-4763-9bc0-28fca0cec36c.jpg)
 
 
-![Pode Crer images](https://pbs.twimg.com/media/Fc1djHZagAI--xu?format=jpg&name=4096x4096)
+
 ![1](https://user-images.githubusercontent.com/125078555/218178428-1bcbd7d6-75a7-4680-8dbb-522ab067be6f.png)
 
 
@@ -38,7 +38,6 @@ The Vilson Groh Institute is a Brazilian nonprofit that supports a network of 8 
 
 This network of 8 organizations was created largely due to a lifetime of work fostering dialogue and amassing tremendous goodwill across society from the Institute’s namesake: Vilson Groh. Forty years ago Vilson moved to the marginalized community of Monte Serrat in Florianópolis and devoted his life to enfranchising marginalized communities, using lifelong education and advocacy to bridge pervasive urban exclusion. This work continues today: now 68, living in the same place in Monte Serrat and still going strong, Vilson continues to use the respect, goodwill and convening power he earned over a lifetime of work dedicated to others to advance social and economic opportunity through innovative education and community programs. 
 
-![image](https://user-images.githubusercontent.com/12504176/139393813-8c3f7a2b-fd98-42ee-af15-97e1f740e539.png)
 ![2](https://user-images.githubusercontent.com/125078555/218178727-0c1fdfdf-8aaa-44ce-a7ff-d05a3f9d7cb4.png)
 
 <img width="1064" alt="image" src="https://user-images.githubusercontent.com/12504176/216225251-7a7eb758-f35e-4c74-a2b2-722b9c11b9cc.png">
@@ -103,12 +102,10 @@ The long-term vision of Pode Crer is to provide complementary education from bir
 Pode Crer is supported by the network that was built over 40 years of work by Vilson Groh and many other engaged individuals in marginalized and impoverished communities. The Institute and its partner organizations have a long history of success creating new educational programs serving marginalized communities and vulnerable populations in the most challenging situations in Brazil, in the midst of urban misery and violence. Because of this long experience and its institutional management capacity, the Vilson Groh Institute and its partner organizations are in a unique position to create, operationalize, and refine bold new educational initiatives for Brazil.       
 
 
-![Banner - BR Found (1)](https://user-images.githubusercontent.com/12504176/139394469-9b64a4ca-4b7c-4b94-83b8-d95eb2754c9c.png)
 ![4](https://user-images.githubusercontent.com/125078555/218179270-5630dd61-dfcd-4494-9f16-dc349649a21c.png)
 
 Current activities being developed as part of the Pode Crer program encompass: enrollment of youth aged 11-24; training courses developing hard and soft skills and focusing on technology, innovation, entrepreneurship, English as a second language, arts, communication and citizenship contents; strengthening their social, psychological and academic developments with scholarships, meals, support to their families and preparatory courses for universities and trade schools; bringing them closer to the innovation and technology ecosystem, and helping them enter universities and the job market.
 
-![image](https://user-images.githubusercontent.com/12504176/139394831-a154d377-c046-4a78-a3ae-1a4bbb09b523.png)
 ![5](https://user-images.githubusercontent.com/125078555/218179326-2bddb120-005c-4967-a768-163264568d20.png)
 
 ### Creating an inclusive knowledge economy and a society of leaders
@@ -149,7 +146,6 @@ Today Pode Crer is implemented as two weekly meetings in the morning or in the a
 
 ## The story of Vilson Groh
 
-![image](https://user-images.githubusercontent.com/12504176/139395012-ae01d365-17a9-4f4a-b722-0bc186daf222.png)
 ![6](https://user-images.githubusercontent.com/125078555/218179398-d015b0fa-87ab-4eda-b01a-6837cb577a12.png)
 
 
@@ -157,7 +153,6 @@ Vilson Groh was born and raised in Brusque, a city founded by German immigrants 
 
 [![Vilson Video](https://user-images.githubusercontent.com/12504176/174450234-332c4fc0-bb01-49b9-9348-041823f870f8.jpg)](https://www.youtube.com/watch?v=1tuu-xvjNa4 "Video of Vilson Groh Story - Click to Watch!")
 
-![image](https://user-images.githubusercontent.com/12504176/139395782-96d09cc5-2cb7-4e0b-8d2c-11ab03736881.png)
 ![7](https://user-images.githubusercontent.com/125078555/218179497-d7049589-8e1c-46d1-8149-c46f309b25a0.png)
 
 ## The Vilson Groh Network 
@@ -178,7 +173,6 @@ Today the organizations that compose the Vilson Groh Network are:
 - AGB (Friends of Guinea-Bissau) - runs bilateral education programs for elementary and high school, as well as teacher trainings in Guinea-Bissau
 - IVG (The Vilson Groh Institute itself) - runs university preparation program, the Pode Crer program, multiple family and community support programs
 
-![image](https://pbs.twimg.com/media/FdJQ2hlaMAEWqFe?format=jpg&name=4096x4096)
 ![8](https://user-images.githubusercontent.com/125078555/218179581-ad94bbfe-3679-4000-8cf7-b6a775188754.png)
 
 ![image](https://pbs.twimg.com/media/FdJCW0MagAEEyxU?format=jpg&name=4096x4096)
