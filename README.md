@@ -3,7 +3,9 @@
 ![image (4)](https://user-images.githubusercontent.com/12504176/216223831-745373b0-4131-4d34-ad50-2d910f7a5c8e.jpg)
 
 
-### Pode Crer: Technology, civics and leadership education for marginalized youth 
+## Pode Crer: Technology, civics and leadership education for marginalized youth 
+
+<img width="1440" alt="podecrer_mosaic" src="https://user-images.githubusercontent.com/12504176/238362883-02693e68-5832-4c58-8839-ce2c8681b472.png">
 
 - Pode Crer is a new educational program being piloted by the Vilson Groh Institute in Florianópolis in Brazil, with complementary education focusing on on civics, technology, communication and expression, and socio-emotional skills
 - Pode Crer aims to create an inclusive knowledge economy through opportunity, breaking the cycle of urban misery and violence
