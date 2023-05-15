@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="refresh" content="0; url=https://docs.google.com/forms/d/e/1FAIpQLSe0imb9_3gquU_XvathGs3J4bfmBPJ3-7qmku2O56EyvmENpQ/viewform?usp=sf_link">
+        <script type="text/javascript">
+            window.location.href = "https://docs.google.com/forms/d/e/1FAIpQLSe0imb9_3gquU_XvathGs3J4bfmBPJ3-7qmku2O56EyvmENpQ/viewform?usp=sf_link"
+        </script>
+        <title>porque</title>
+    </head>
+    <body>
+        <!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
+        Você deverá ser redirectionado para o formulário do email no link: <br>
+      <a href='https://docs.google.com/forms/d/e/1FAIpQLSe0imb9_3gquU_XvathGs3J4bfmBPJ3-7qmku2O56EyvmENpQ/viewform?usp=sf_link'> 
+        https://docs.google.com/forms/d/e/1FAIpQLSe0imb9_3gquU_XvathGs3J4bfmBPJ3-7qmku2O56EyvmENpQ/viewform?usp=sf_link</a>.
+    </body>
+</html>
