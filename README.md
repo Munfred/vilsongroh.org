@@ -25,6 +25,12 @@
 
 ![image (6)](https://user-images.githubusercontent.com/12504176/216224073-db54430c-4661-4cb1-a803-1b56c74b4a1e.jpg)
 
+## Funding needs
+
+We are on a race against the clock to find funding to sustain Pode Crer operations. Due to the government change Pode Crer primary funder in 2021 and 2022 rescinded their pledge of BRM 1M (USD 200K) as 2023 classes were about to start. Pode Crer is currently running on contingency mode. We are working to reorganize our funds to ensure Pode Crer can continue operating until July while simultaneously exploring potential funders.
+If you have interest in supporting Pode Crer operations or potential connections, please send an email to eduardo@redeivg.org.br
+
+
 ![image (8)](https://user-images.githubusercontent.com/12504176/216224394-43d2b411-386d-4763-9bc0-28fca0cec36c.jpg)
 
 
