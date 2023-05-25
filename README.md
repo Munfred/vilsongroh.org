@@ -15,11 +15,12 @@
 - One year of Pode Crer for 300 youth costs $240k USD. One social innovation center costs $1.2M USD
 - Pode Crer is impactful. Of 200 youth aged 14+ in 2021, 66 went got jobs and internships after the program (37 in tech) and 7 went to university. 
 - These are vulnerable youth from violent and marginalized communities, this kind of impact life changing for these youth, who are prone to fall into violence, drug trafficking and underemployment.
-- A 12-slide deck with overview of Pode Crer with detailed numbers is [here](https://vilsongroh.org/deck.pdf)
-- The 2022 Pode Crer report is [here](https://vilsongroh.org/2022report.pdf)
-- A detailed slide deck presentation on Pode Crer with many pictures is [here](https://docs.google.com/presentation/d/1OCvBwtLGfgKywJC2TbuCzU3ia4oNltaINNVUHnn3dBs/edit?usp=sharing)
 
-- The Pode Crer official webpage (in Portuguese) is at [redeivg.org.br/podecrer](https://redeivg.org.br/podecrer)
+## Reports and presentations
+### The [Detailed slide deck on Pode Crer](https://vilsongroh.org/deck.pdf)
+### The [2022 Pode Crer report](https://vilsongroh.org/2022report.pdf)
+### Overview of [all programs run by the Vilson Groh Institute](https://vilsongroh.org/institutional_overview.pdf)
+### Vilson Groh Institute portuguese website: [redeivg.org.br](https://redeivg.org.br)
 
 ![image (7)](https://user-images.githubusercontent.com/12504176/216224247-9651434b-631c-401d-9d37-b136d7881eeb.jpg)
 
