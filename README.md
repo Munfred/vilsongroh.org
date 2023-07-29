@@ -7,14 +7,20 @@
 
 <img width="1440" alt="podecrer_mosaic" src="https://user-images.githubusercontent.com/12504176/238362883-02693e68-5832-4c58-8839-ce2c8681b472.png">
 
-- Pode Crer is a new educational program being piloted by the Vilson Groh Institute in Florianópolis in Brazil, with complementary education focusing on on civics, technology, communication and expression, and socio-emotional skills
-- Pode Crer aims to create an inclusive knowledge economy through opportunity, breaking the cycle of urban misery and violence
-- Pode Crer was conceived to scale, and since 2021 has been running with 300 youth ages 11-24
-- The growth plan is to create social innovation centers across 5 communities where the Vilson Groh Institute already operates to serve as Pode Crer hubs, and change each community from the inside out 
-- Pode Crer is free, and we are fundraising to support continuing operations. 
+- **Pode Crer is a new educational program for marginalized youth** created by the Vilson Groh Institute in Florianópolis in Brazil. Pode Crer provides youth ages 11-24 with complementary education focusing on on civics, technology, communication and expression, and socio-emotional skills
+- **Pode Crer aims to create an inclusive knowledge economy** through opportunity, breaking the cycle of urban misery and violence
+- **Pode Crer was conceived to scale**, and since 2021 has been running with 300 youth ages 11-24
+- **The growth plan** is to create social innovation centers across 5 communities where the Vilson Groh Institute already operates to serve as Pode Crer hubs, and change each community from the inside out 
+- **Pode Crer is free for students.** We are fundraising to support continuing 2023 operations. 
 - One year of Pode Crer for 300 youth costs $240k USD. One social innovation center costs $1.2M USD
-- Pode Crer is impactful. Of 200 youth aged 14+ in 2021, 66 went got jobs and internships after the program (37 in tech) and 7 went to university. 
-- These are vulnerable youth from violent and marginalized communities, this kind of impact life changing for these youth, who are prone to fall into violence, drug trafficking and underemployment.
+- **Pode Crer is impactful.** Of 200 youth aged 14+ in 2021, 66 went got jobs and internships after the program (37 in tech) and 7 went to university. 
+- **These are vulnerable youth from violent and marginalized communities.** This kind of impact life changing for these youth, who are prone to fall into violence, drug trafficking and underemployment.
+- **US tax deductible donations:**
+you can use the designated fund we created together with the BrazilFoundation, an American 501(c)3:
+[https://www.brazilfoundation.org/podecrerfund/](https://www.brazilfoundation.org/podecrerfund/)
+- **Donations in Brazilian Reais:** To make a donation in Brazilian reais you can use the Portuguese website donation page: 
+[https://www.redeivg.org.br/doe-agora/](https://www.redeivg.org.br/doe-agora/)
+- For English inquiries contact Tainara Lemos (programs coordinator) via email at tainara@redeivg.org.br or WhatsApp at [https://wa.me/554891335314](+55 48 9133-5314). You can also 
 
 ## Reports and presentations
 ### The [Detailed slide deck on Pode Crer](https://vilsongroh.org/deck.pdf)
