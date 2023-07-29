@@ -20,7 +20,7 @@ you can use the designated fund we created together with the BrazilFoundation, a
 [https://www.brazilfoundation.org/podecrerfund/](https://www.brazilfoundation.org/podecrerfund/)
 - **Donations in Brazilian Reais:** To make a donation in Brazilian reais you can use the Portuguese website donation page: 
 [https://www.redeivg.org.br/doe-agora/](https://www.redeivg.org.br/doe-agora/)
-- For English inquiries contact Tainara Lemos (programs coordinator) via email at tainara@redeivg.org.br or WhatsApp at [https://wa.me/554891335314](+55 48 9133-5314). You can also 
+- **For English inquiries** contact Tainara Lemos (programs coordinator) via email at tainara@redeivg.org.br or WhatsApp at [https://wa.me/554891335314](+55 48 9133-5314). You can also 
 
 ## Reports and presentations
 ### The [Detailed slide deck on Pode Crer](https://vilsongroh.org/deck.pdf)
