@@ -17,7 +17,7 @@
 - **These are vulnerable youth from violent and marginalized communities.** This kind of impact life changing for these youth, who are prone to fall into violence, drug trafficking and underemployment.
 - **US tax deductible donations:**
 you can use the designated fund we created together with the BrazilFoundation, an American 501(c)3:
-[https://www.brazilfoundation.org/podecrerfund/](https://www.brazilfoundation.org/podecrerfund/)
+[[https://www.brazilfoundation.org/podecrerfund/](https://brazilfoundation.org/en/know-more/how-we-support/pode-crer-fund/)]([https://www.brazilfoundation.org/podecrerfund/](https://brazilfoundation.org/en/know-more/how-we-support/pode-crer-fund/))
 - **Donations in Brazilian Reais:** To make a donation in Brazilian reais you can use the Portuguese website donation page: 
 [https://www.redeivg.org.br/doe-agora/](https://www.redeivg.org.br/doe-agora/)
 - **For English inquiries** contact Tainara Lemos (programs coordinator) via email at tainara@redeivg.org.br or WhatsApp at [https://wa.me/554891335314](+55 48 9133-5314). You can also 
@@ -85,7 +85,7 @@ Some results showing the impact of the Vilson Groh Institute results over the la
 To make a tax deductible donation in USD with a credit card, 
 you can use the designated fund we created together with the BrazilFoundation, an American 501(c)3:
 
-[https://www.brazilfoundation.org/podecrerfund/](https://www.brazilfoundation.org/podecrerfund/)
+[[https://www.brazilfoundation.org/podecrerfund/](https://brazilfoundation.org/en/know-more/how-we-support/pode-crer-fund/)]([https://www.brazilfoundation.org/podecrerfund/](https://brazilfoundation.org/en/know-more/how-we-support/pode-crer-fund/))
 
 #### Donations in Brazilian Reais
 To make a donation in Brazilian reais you can use the Portuguese website donation page: 
