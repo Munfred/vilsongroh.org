@@ -25,7 +25,7 @@ you can use the designated fund we created together with the BrazilFoundation, a
 ## Reports and presentations
 ### The [Detailed slide deck on Pode Crer](https://vilsongroh.org/deck.pdf)
 ### The [2022 Pode Crer report](https://vilsongroh.org/2022report.pdf)
-### Overview of [all programs run by the Vilson Groh Institute](https://vilsongroh.org/institutional_overview.pdf)
+### Overview of [all programs run by the Vilson Groh Institute](https://vilsongroh.org/institute_overview.pdf)
 ### Vilson Groh Institute portuguese website: [redeivg.org.br](https://redeivg.org.br)
 
 ![image (7)](https://user-images.githubusercontent.com/12504176/216224247-9651434b-631c-401d-9d37-b136d7881eeb.jpg)
