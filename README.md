@@ -32,12 +32,6 @@ you can use the designated fund we created together with the BrazilFoundation, a
 
 ![image (6)](https://user-images.githubusercontent.com/12504176/216224073-db54430c-4661-4cb1-a803-1b56c74b4a1e.jpg)
 
-## Funding needs - Pode Crer 2023 is running on contingency mode
-
-We are on a race against the clock to find funding to sustain Pode Crer operations. Due to the government change Pode Crer primary funder in 2021 and 2022 rescinded their pledge of BRM 1M (USD 200K) as 2023 classes were about to start. Pode Crer is currently running on contingency mode. We are working to reorganize our funds to ensure Pode Crer can continue operating until July while simultaneously exploring potential funders.
-If you have interest in supporting Pode Crer operations or potential connections, please send an email to eduardo@redeivg.org.br
-
-
 ![image (8)](https://user-images.githubusercontent.com/12504176/216224394-43d2b411-386d-4763-9bc0-28fca0cec36c.jpg)
 
 
@@ -93,7 +87,7 @@ To make a donation in Brazilian reais you can use the Portuguese website donatio
 [https://www.redeivg.org.br/doe-agora/](https://www.redeivg.org.br/doe-agora/)
 
 
-#### Donations with cryptocurrencies via GitCoin
+#### Donations via GitCoin
 You can support the Vilson Groh Institute with donations using cryptocurrencies
 such as Ethereum in the Pode Crer GitCoin campaign page:
 
@@ -110,7 +104,7 @@ The Pode Crer program and methodology aims at nothing less than reinventing basi
 
 Pode Crer currently takes place in the city of Florianópolis, in the south of Brazil. Is divided into three educational tracks for ages 11-13, 14-17 and 18-24. The pilot program took place in 2021 with 320 young people in a hybrid format. In May 2022, its second iteration began, in a fully face-to-face format, with 300 young people, some of whom participated in 2021. Pode Crer is free and open for all.
 
-The long-term vision of Pode Crer is to provide complementary education from birth to university age. To enable this vision and to serve as hubs for the implementation and growth of Pode Crer, five Social Innovation Centers will be created across the greater Florianópolis region in locations close to partner organizations. These centers will have state-of-the-art infrastructure to offer all the educational tracks of Pode Crer continuously. The first center is planned to open by 2023 in the community of Monte Serrat in Florianópolis, where Vilson Groh lives. It will have a maker space, computer labs, classrooms and workshops, auditorium, library, co-working spaces and large spaces for social coexistence.
+The long-term vision of Pode Crer is to provide complementary education from birth to university age. To enable this vision and to serve as hubs for the implementation and growth of Pode Crer, five Social Innovation Centers will be created across the greater Florianópolis region in locations close to partner organizations. These centers will have state-of-the-art infrastructure to offer all the educational tracks of Pode Crer continuously. The first center is planned to open by 2025 in the community of Monte Serrat in Florianópolis, where Vilson Groh lives. It will have a maker space, computer labs, classrooms and workshops, auditorium, library, co-working spaces and large spaces for social coexistence.
 
 ![image](https://pbs.twimg.com/media/FdI9g2IagAIjFfp?format=jpg&name=4096x4096)
 
@@ -147,11 +141,9 @@ After Monte Serrat neighborhood the next two centers will be built in the Monte 
 ## Current funding needs
 ![image (9)](https://user-images.githubusercontent.com/12504176/216224599-c8e37d92-f8c5-4cae-8eae-a8fb62db5144.jpg)
 
-We have the institutional capacity to operate and grow Pode Crer. We are bottlenecked by fundraising. The first center is planned to open in 2023 at a total cost of about $1M ($200k have been raised already). Future centers are estimated at $1M to build and operate for the first year. A center can serve 700 Pode Crer students and reaches about 5000 community members. Each center is planned to be staffed by 12 educators and 8 support staff.  We are confident that if we have the money we can train and grow our team of educators by 50% each year. With $5M we could have these 5 centers built and operational by 2027.
+We have the institutional capacity to operate and grow Pode Crer. We are bottlenecked by fundraising. The first center is planned to open in 2025 at a total cost of about $1M ($500k have been raised already). Future centers are estimated at $1M to build and operate for the first year. A center can serve 700 Pode Crer students and reaches about 5000 community members. Each center is planned to be staffed by 12 educators and 8 support staff.  We are confident that if we have the money we can train and grow our team of educators by 50% each year. 
 
 Pode Crer is free and open to all, aiming to serve vulnerable students from marginalized communities. Students are divided into three educational tracks for different age groups. Ages 11-13 (track 1), 14-17 (track 2) and 18-24 (track 3). Students on tracks 2 and 3 receive an allowance of R$200 (USD 40) per month during the program. This allowance is fundamental to incentivize them and their families to focus on studies rather than procuring work to supplement family income. 
-
-The 2022 implementation is supported by a team of 21 people, including educators, social workers, pedagogues and administrators. The budget for 2022 is R$1.2M (250k USD). *There is currently a funding shortage of about R$200k (40k USD) for funding the last 5 months of allowances for Pode Crer students*.
 
 ![image](https://pbs.twimg.com/media/FdJaMSTagAATlYW?format=png&name=4096x4096)
 
